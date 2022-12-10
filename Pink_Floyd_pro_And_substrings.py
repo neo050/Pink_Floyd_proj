@@ -3,9 +3,7 @@ from functools import reduce
 from functools import reduce
 from itertools import combinations
 
-print(len(str("This project brings you data about Pink Floyd such as song names as a function of album names"+
-"The names of the album as a function of the names of their songs and many other various details about the Pink Floyd band and their songs"
-+"You can also get the lyrics and their length if you use this project")))
+
 class Song:
 
 
